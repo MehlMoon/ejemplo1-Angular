@@ -1,0 +1,18 @@
+thead{
+    color:darkgreen;
+}
+
+.btn-primary{
+    background-color: darkseagreen;
+    color:white;
+    border-color: darkgreen;
+}
+
+.color-header{
+    background-color: burlywood;
+    color:chocolate
+}
+
+.card{
+    padding-top: 50px;
+}

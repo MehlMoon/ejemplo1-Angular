@@ -1,0 +1,9 @@
+.btn-primary{
+    background-color: darkseagreen;
+    color:white;
+    border-color: darkgreen;
+}
+
+.card{
+    padding-top: 50px;
+}
